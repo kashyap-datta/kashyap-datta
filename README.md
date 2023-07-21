@@ -26,7 +26,7 @@
 
 ## Contact
 
-- GitHub: [github.com/your-github-username](https://github.com/kashyap-datta)
+- GitHub: [github.com/kashyap-datta](https://github.com/kashyap-datta)
 - LinkedIn: [linkedin.com/in/kashyap-datta-kovvali](https://linkedin.com/in/kashyap-datta-kovvali)
 - Email: kashyapdatta@gmail.com
 
